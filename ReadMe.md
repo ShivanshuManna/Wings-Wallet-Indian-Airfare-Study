@@ -8,7 +8,7 @@ The introduction of the study is to analyse the flight booking dataset obtained 
 
 Since the Covid-19 pandemic ended, aviation market began to recover slowly from rock bottom ticket prices in peak of pandemic. With the war in Ukraine and rise in ATF prices, ticket prices have been through the roof reaching new high. As a result of this, I decided to do an exploratory data analysis for ticket prices to better understand the factors affecting them in India.
 I aim to answer questions like No. of flights available across India, Ticket availability across different class, Price range across different class, etc.
-Check out the project [here]()
+Check out the project [here](https://github.com/ShivanshuManna/Wings-Wallet-Indian-Airfare-Study)
 
 ## About the dataset
 
@@ -31,7 +31,7 @@ The various features of the cleaned dataset are explained below:
 
 ## Power BI Visualization Dashboard
 
-Click on [Power BI Dashboard]() to view the dashboard
+Click on [Power BI Dashboard](https://github.com/ShivanshuManna/Wings-Wallet-Indian-Airfare-Study/blob/main/Wings%20%26%20Wallet%20Indian%20Airfare%20Study.pbix) to view the dashboard
 
 Using Power BI Dashboard one can quickly get to know ticket prices between different cities flying with different airlines in different classes along with flight duration
 
